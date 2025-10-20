@@ -6,4 +6,4 @@ def test_add():
 
 def test_substract():
     assert substract(5, 3) == 2
-    assert substract(5 - 5) == 0
+    assert substract(5, 5) == 0
